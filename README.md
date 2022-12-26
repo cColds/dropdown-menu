@@ -18,7 +18,7 @@ Download and install the package by running:
 
 To use the dropdown menu functionality
 
-# Add JavaScript Code:
+# Javascript Functionality:
 
 ```js
 import {
